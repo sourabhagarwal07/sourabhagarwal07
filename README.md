@@ -3,7 +3,7 @@
 </head>
 <body>
 <div>
-<img src="sourabh.jpg"/ height="150px" width="150px" style="border-radius:50%;">
+<img src="sourabh.jpg" height="150px" width="150px" style="border-radius:50%;">
 <span><h3>Hello, I'M Sourabh Agarwal</h3></span>
 </div>
 <div>
