@@ -6,9 +6,13 @@
 <h1>Hello, I'M Sourabh Agarwal 👋</h1>
 <img src="https://komarev.com/ghpvc/?username=sourabhagarwal07&color=dc143c"  height="20px"/>
 <hr>
-<p><h3>I am a software engineer </h3></p>
+<p><h3>I am a software engineer.  </h3></p>
 <hr>
-<p><h2>Tools I have Worked On</h2></p>
+<p><h2>Connect with me:</h2></p>
+<a href="#"><img src="linkedin.svg" height="50px" width="50px"/></a><nbsp;><a href="#"><img src="gmail.svg" height="50px" width="50px"/></a>
+<nbsp;><a href="#"><img src="instagram.svg" height="50px" width="50px"/></a><nbsp;><a href="#"><img src="facebook.svg" height="50px" width="50px"/></a>
+<hr>
+<p><h2>Tools & Languages</h2></p>
 <img src="angular.svg" height="50px" width="50px"/>
 <hr>
 <div>
