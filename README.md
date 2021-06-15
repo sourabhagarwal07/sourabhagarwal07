@@ -6,7 +6,16 @@
 <h1>Hello, I'M Sourabh Agarwal 👋</h1>
 <img src="https://komarev.com/ghpvc/?username=sourabhagarwal07&color=dc143c"  height="20px"/>
 <hr>
-<p><h3>I am a software engineer.  </h3></p>
+<p>
+<ul>
+<li><h2>🔭 I’m currently working in Full Stack Development & SEO... </h2></li>
+<li><h2>🌱 I’m currently learning on Machine Learning... </h2></li>
+<li><h2>👯 I’m looking to collaborate on Machine Learning Projects... </h2></li>
+<li><h2>🤔 I’m looking for help with Anything related to Machine Learning and SEO... </h2></li>
+<li><h2>💬 Ask me about Connect meet... </h2></li>
+<li><h2>⚡ Fun fact: It's never too late to learn... </h2></li>
+</ul>
+</p>
 <hr>
 <p><h2>Connect with me:</h2></p>
 <a href="#"><img src="linkedin.svg" height="50px" width="50px"/></a><nbsp;><a href="#"><img src="gmail.svg" height="50px" width="50px"/></a>
