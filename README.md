@@ -3,21 +3,13 @@
 </head>
 <body>
 <img src="wave_up.svg"/>
-<div>
-<img src="https://komarev.com/ghpvc/?username=sourabhagarwal07&color=dc143c" align="right" height="20px"/>
-</div>
-<div>
-<h1 align="center">Hello, I'M Sourabh Agarwal 👋</h1>
-</div>
+<h1>Hello, I'M Sourabh Agarwal 👋</h1>
+<img src="https://komarev.com/ghpvc/?username=sourabhagarwal07&color=dc143c"  height="20px"/>
 <hr>
-<div>
 <p><h3>I am a software engineer </h3></p>
-</div>
 <hr>
-<div>
 <p><h2>Tools I have Worked On</h2></p>
 <img src="angular.svg" height="50px" width="50px"/>
-</div>
 <hr>
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=sourabhagarwal07&show_icons=true&theme=radical"/>
