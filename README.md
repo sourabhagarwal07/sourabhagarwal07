@@ -18,8 +18,7 @@
 </p>
 <hr>
 <p><h2>Connect with me:</h2></p>
-<a href="#"><img src="linkedin.svg" height="50px" width="50px"/></a><nbsp;><a href="#"><img src="gmail.svg" height="50px" width="50px"/></a>
-<nbsp;><a href="#"><img src="instagram.svg" height="50px" width="50px"/></a><nbsp;><a href="#"><img src="facebook.svg" height="50px" width="50px"/></a>
+<a href="https://www.linkedin.com/in/sourabh-agarwal-261b57111/"><img src="linkedin.svg" height="50px" width="50px"/></a><nbsp;><a href="mailto:sourabh.max01@gmail.com"><img src="gmail.svg" height="50px" width="50px"/></a>
 <hr>
 <p><h2>Tools & Languages</h2></p>
 <img src="angular.svg" height="50px" width="50px"/>
