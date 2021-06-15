@@ -7,7 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=sourabhagarwal07&color=dc143c" align="right" height="20px"/>
 </div>
 <div>
-<h1 align="center">Hello, I'M Sourabh Agarwal</h1>
+<h1 align="center">Hello, I'M Sourabh Agarwal 👋</h1>
 </div>
 <hr>
 <div>
